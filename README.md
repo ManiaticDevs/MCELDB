@@ -7,6 +7,8 @@
 
 A Minecraft Launcher which allows you to launch Minecraft on school computers and others for educational purposes.S
 
+#### For those found the secret.json is the login details, guess what. It's completly gone private and you can never find it. Unless you interogate Oikmo.
+
 ## Table of Contents
 
 - [Installation](#installation)
